@@ -1,1 +1,4 @@
+git add modelo_inadimplencia.joblib
+git commit -m "Adiciona modelo salvo"
+git push origin main
 
